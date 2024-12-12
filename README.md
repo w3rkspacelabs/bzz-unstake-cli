@@ -26,18 +26,16 @@ npm install
 
 ### Unstake CLI
 
-#### Unstake with swarm.key and password
-```
-tsx src/index.ts unstake <path-to-swarm-key-file> <password> <gnosis-rpc-url>
-```
+#### Previous Staking Contracts (For Unstaking)
+
+| Version   | Address                                    |
+|-----------|--------------------------------------------|
+| pre 2.2.0 | 0x781c6D1f0eaE6F1Da1F604c6cDCcdB8B76428ba7 |
+| pre 2.3.0 | 0xBe212EA1A4978a64e8f7636Ae18305C38CA092Bd |
+
 #### Unstake with swarm.key and password and staking contract
 ```
 tsx src/index.ts unstake <path-to-swarm-key-file> <password> <gnosis-rpc-url> --unstake-contract <contract-address>
-```
-
-#### Unstake with private key
-```
-tsx src/index.ts unstake-with-pk <private-key> <gnosis-rpc-url>
 ```
 
 #### Unstake with private key and staking contract
@@ -51,12 +49,6 @@ Staked amount available for withdrawal: 110000000000000000
 Withdraw stake transaction sent: 0x123abc7d956606ac0083b0356e4bd5351276b854c732e4f78357a4a722932dfc
 Withdraw stake transaction completed!
 ```
-#### Previous Staking Contracts (For Unstaking)
-
-| Version   | Address                                    |
-|-----------|--------------------------------------------|
-| pre 2.2.0 | 0x781c6D1f0eaE6F1Da1F604c6cDCcdB8B76428ba7 |
-| pre 2.3.0 | 0xBe212EA1A4978a64e8f7636Ae18305C38CA092Bd |
 
 ## Restaking your `xBZZ`
 
