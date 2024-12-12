@@ -30,8 +30,8 @@ npm install
 
 | Version   | Address                                    |
 |-----------|--------------------------------------------|
-| pre 2.2.0 | 0x781c6D1f0eaE6F1Da1F604c6cDCcdB8B76428ba7 |
-| pre 2.3.0 | 0xBe212EA1A4978a64e8f7636Ae18305C38CA092Bd |
+| pre 2.2.0 | [0x781c6D1f0eaE6F1Da1F604c6cDCcdB8B76428ba7](https://gnosisscan.io/address/0x781c6d1f0eae6f1da1f604c6cdccdb8b76428ba7) |
+| pre 2.3.0 | [0xBe212EA1A4978a64e8f7636Ae18305C38CA092Bd](https://gnosisscan.io/address/0xbe212ea1a4978a64e8f7636ae18305c38ca092bd) |
 
 #### Unstake with swarm.key and password and staking contract
 ```
