@@ -28,6 +28,8 @@ npm install
 
 #### Previous Staking Contracts (For Unstaking)
 
+Stake Registry - https://github.com/ethersphere/storage-incentives/blob/8d91927b183ec622a2c809b9a58b6ebe15e16d9a/deployments/mainnet/StakeRegistry.json 
+
 | Version   | Address                                    |
 |-----------|--------------------------------------------|
 | pre 2.2.0 | [0x781c6D1f0eaE6F1Da1F604c6cDCcdB8B76428ba7](https://gnosisscan.io/address/0x781c6d1f0eae6f1da1f604c6cdccdb8b76428ba7) |
